@@ -1,4 +1,4 @@
-# Emmet extend configuration for bem
+# Atom Emmet extend configuration for bem
   I) How to configure Atom emmet package for extensions, such as defining the filter |bem always active. <br/>
   II) New bem filter syntax less confusing.
   
@@ -9,9 +9,9 @@
   This repo contains all the needed files with my preferences, modify them at your need.<br/>
   The preferences are split in three files "preferences.json", "snippets.json", "syntaxProfiles.json"
 ### I.1) Setup the preferences
-  Place the emmet-extend-configuration-for-bem folder (rename it as you wish) somewhere meaningful, <br/>something like  "&#126;/.atom/" or "&#126;/.atom/packages/emmet/" etc..<br/>
+  Place the Atom-emmet-extend-configuration-for-bem folder (rename it as you wish) somewhere meaningful, <br/>something like  "&#126;/.atom/" or "&#126;/.atom/packages/emmet/" etc..<br/>
   go to the Atom > Settings > packages > emmet > settings > Extension path <br/>
-  set the path corresponding to the location of your emmet-extend-configuration-for-bem folder <br/>
+  set the path corresponding to the location of your Atom-emmet-extend-configuration-for-bem folder <br/>
   Relaunch atom.
 
 ## II) A less confusing syntax for the bem filter
