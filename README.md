@@ -17,30 +17,21 @@
   <code>
     .B--M
     &lt;div class="B B--M"&gt;&lt;/div&gt;
-    &lt;!-- /.B B--M --&gt;
 
     .B--M1.--M2
     &lt;div class="B B--M1 B--M2"&gt;&lt;/div&gt;
-    &lt;!-- /.B B--M1 B--M2 --&gt;
-
 
     .B>.--M
     &lt;div class="B"&gt;
       &lt;div class="B B--M"&gt;&lt;/div&gt;
-      &lt;!-- /.B B--M --&gt;
     &lt;/div&gt;
-    &lt;!-- /.B --&gt;
 
     .B1>.B2--M1>._E1+.__E2--M2
     &lt;div class="B1"&gt;
       &lt;div class="B2 B2--M1"&gt;
         &lt;div class="B2__E1"&gt;&lt;/div&gt;
-        &lt;!-- /.B2__E1 --&gt;
         &lt;div class="B1__E2 B1__E2--M2"&gt;&lt;/div&gt;
-        &lt;!-- /.B1__E2 B1__E2--M2 --&gt;
       &lt;/div&gt;
-      &lt;!-- /.B2 B2--M1 --&gt;
     &lt;/div&gt;
-    &lt;!-- /.B1 --&gt;
   </code>
 </pre>
