@@ -14,7 +14,7 @@
   set the path corresponding to the location of your emmet-extend-configuration-for-bem folder <br/>
   Relaunch atom.
 
-## II) A less confusing syntax of the bem filter
+## II) A less confusing syntax for the bem filter
   B : block <br />
   E : element<br />
   M : modifier<br />
