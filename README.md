@@ -13,14 +13,13 @@
   Relaunch atom.
 
 ### Using common BEM syntax
-<pre>
-  B : block
-  E : element
-  M : modifier
-  bem filter Syntax used in this config : B__E--M      / B_E--M 
+  B : block <br />
+  E : element<br />
+  M : modifier<br />
+  bem filter Syntax used in this config : B__E--M&nbsp;&nbsp;/&nbsp;&nbsp;B_E--M <br />
+  <br />
+  (Emmet default bem filter syntax is : B-E_M&nbsp;&nbsp;/&nbsp;&nbsp;B--E_M)
 
-  Emmet default bem filter syntax is    : B-E_M        / B--E_M
-</pre>
 ### Same examples as in emmet docs (web) with the new syntax
 <pre>
   <code>
